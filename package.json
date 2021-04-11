@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://https://github.com/AlexRosly/team-prodject",
+  "homepage": "https://github.com/AlexRosly/team-prodject",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /team-prodject/"
